@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta>
+    <name>square example</name>
+    <desc>a square example</desc>
+    <author>limr77</author>
+</meta>
+<data>
+    <square height=100 width=100 fillcol="green" outlinecol="black />
+</data>
