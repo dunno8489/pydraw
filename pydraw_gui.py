@@ -53,7 +53,7 @@ file.add_command(label='Open') # sprawdz
 
 #Creating the Edit Menu
 edit = Menu(menu)
-edit.add_cascade()
+edit.add_cascade(label="Edit",menu=edit)
 edit.add_command(label='Shapes')
 edit.add_command(label='Add Predefined Shapes')
 edit.add_separator()
