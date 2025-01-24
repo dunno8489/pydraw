@@ -3,7 +3,16 @@
     <name>square example</name>
     <desc>a square example</desc>
     <author>limr77</author>
+    <bgcol>black</bgcol>
+    <title>PyDraw Example - square.pdp</title>
 </meta>
 <data>
-    <square height=100 width=100 fillcol="green" outlinecol="black" instname="squareInst001"/>
+    <square>
+        <fillcol>green</fillcol>
+        <outlinecol>white</outlinecol>
+        <instname>squareinst01</instname>
+        <height>100</height>
+        <width>100</width>
+        <pendowncanvas>True</pendowncanvas>
+    </square>
 </data>
