@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SystemInfo>
-
+    <CPU>Generic CPU</CPU>
+    <GPU>Generic GPU</GPU>
+    <DirectX>11</DirectX>
 </SystemInfo>
